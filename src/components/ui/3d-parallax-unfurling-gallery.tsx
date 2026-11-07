@@ -1000,7 +1000,7 @@ export default function Component({
               <WhatsAppIcon className="w-5 h-5 sm:w-6 sm:h-6" />
             </a>
             <a
-              href="mailto:ibrcreation.visuals@gmail.com?subject=Inquiry%20for%20IBR%20CREATION%20//%20Muhammed%20Ihsan"
+              href="mailto:ibrcreation07@gmail.com?subject=Inquiry%20for%20IBR%20CREATION%20//%20Muhammed%20Ihsan"
               aria-label="Email"
               className="w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-white/[0.04] hover:bg-sky-500/15 border border-white/10 hover:border-sky-500/50 text-zinc-300 hover:text-sky-400 flex items-center justify-center transition-all duration-300 hover:scale-110 shadow-xl cursor-pointer"
             >
