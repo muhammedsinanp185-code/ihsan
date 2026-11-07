@@ -741,7 +741,7 @@ export default function Component({
   }, [selectedPhotoIndex, selectedVideoIndex]);
 
   // CONTINUOUS NON-STOP UPWARD GLIDE: Driven directly by Lenis momentum with zero deadzone or hesitation
-  const yGallery = useTransform(scrollYProgress, [0, 0.5, 1], ["48%", "0%", "-48%"]);
+  const yGallery = useTransform(scrollYProgress, [0, 0.5, 1], ["48%", "0%", "-43.5%"]);
 
   const handleScrollToGallery = () => {
     if (!containerRef.current) return;
@@ -931,7 +931,7 @@ export default function Component({
                 </div>
 
                 {/* 04: EXPLORE MORE ON INSTAGRAM BUTTON */}
-                <div className="w-full flex justify-center items-center pt-14 sm:pt-20 pb-16 pointer-events-auto">
+                <div className="w-full flex justify-center items-center pt-8 sm:pt-10 pb-4 pointer-events-auto">
                   <a
                     href="https://instagram.com/ibr_creation"
                     target="_blank"
@@ -952,14 +952,12 @@ export default function Component({
       </section>
 
       {/* 03: THIRD PAGE - SEPARATE ENDING PAGE (NO VISIBLE SEPARATIONS / NO LINES) */}
-      <section className="relative w-full min-h-screen bg-[#050505] text-white flex flex-col justify-between items-center px-6 sm:px-12 md:px-20 py-16 sm:py-24 select-none">
+      <section className="relative w-full min-h-screen bg-[#050505] text-white flex flex-col justify-between items-center px-6 sm:px-12 md:px-20 pt-4 sm:pt-6 pb-8 sm:pb-12 select-none">
         {/* Subtle Ambient Background Glow */}
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] bg-white/[0.015] rounded-full blur-[140px] pointer-events-none" />
 
-        <div />
-
         {/* Center Brand Showcase */}
-        <div className="relative z-10 flex flex-col items-center justify-center text-center max-w-3xl my-auto py-8">
+        <div className="relative z-10 flex flex-col items-center justify-center text-center max-w-3xl mt-4 sm:mt-8 mb-auto py-2 sm:py-4">
           <h2 className="text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-black text-white tracking-widest uppercase [text-shadow:0_20px_50px_rgba(0,0,0,0.95)]">
             IBR CREATION
           </h2>
