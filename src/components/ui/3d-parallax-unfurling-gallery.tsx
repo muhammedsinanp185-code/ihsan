@@ -250,7 +250,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut Pro & VN",
-    videoUrl: "/videos/iv1.MOV",
+    poster: "/videos/covers/iv1_cover.jpg",
+    videoUrl: "/videos/iv1.mp4",
     description: "Dynamic cinematic edit highlighting visual rhythm, atmospheric color tones, and seamless cuts.",
   },
   {
@@ -264,7 +265,7 @@ export const VIDEO_ITEMS: VideoItem[] = [
     client: "IBR CREATION",
     tools: "VN Video Editor",
     poster: "/videos/covers/iv2_cover.jpg",
-    videoUrl: "/videos/iv2.MP4",
+    videoUrl: "/videos/iv2.mp4",
     description: "Heartfelt candid moments and vibrant energy preserved with natural warm color tones.",
   },
   {
@@ -278,7 +279,7 @@ export const VIDEO_ITEMS: VideoItem[] = [
     client: "IBR CREATION",
     tools: "CapCut & VN",
     poster: "/videos/covers/iv3_cover.jpg",
-    videoUrl: "/videos/iv3.MP4",
+    videoUrl: "/videos/iv3.mp4",
     description: "Paced storytelling capturing intimate expressions, joy, and celebration details.",
   },
   {
@@ -291,7 +292,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut Pro",
-    videoUrl: "/videos/iv4.MOV",
+    poster: "/videos/covers/iv4_cover.jpg",
+    videoUrl: "/videos/iv4.mp4",
     description: "Atmospheric golden hour aesthetics with smooth motion stabilization and color grade.",
   },
   {
@@ -304,7 +306,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "VN Editor & CapCut",
-    videoUrl: "/videos/iv5.MOV",
+    poster: "/videos/covers/iv5_cover.jpg",
+    videoUrl: "/videos/iv5.mp4",
     description: "Festive celebration highlights edited with fast-paced cuts and rhythmic transitions.",
   },
   {
@@ -317,7 +320,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut Pro",
-    videoUrl: "/videos/iv6.MOV",
+    poster: "/videos/covers/iv6_cover.jpg",
+    videoUrl: "/videos/iv6.mp4",
     description: "Minimal, elegant portrait video motion study with deep shadows and refined lighting.",
   },
   {
@@ -330,7 +334,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut & VN Editor",
-    videoUrl: "/videos/iv7.MOV",
+    poster: "/videos/covers/iv7_cover.jpg",
+    videoUrl: "/videos/iv7.mp4",
     description: "Full narrative extended sequence blending emotional storytelling with vibrant visuals.",
   },
   {
@@ -343,7 +348,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "VN Video Editor",
-    videoUrl: "/videos/iv8.MOV",
+    poster: "/videos/covers/iv8_cover.jpg",
+    videoUrl: "/videos/iv8.mp4",
     description: "Trending audio-synced dynamic reel designed for maximum social engagement and flow.",
   },
   {
@@ -356,7 +362,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut Pro",
-    videoUrl: "/videos/iv9.MOV",
+    poster: "/videos/covers/iv9_cover.jpg",
+    videoUrl: "/videos/iv9.mp4",
     description: "Rich colors, emotive cadence, and cinematic depth crafted for lasting impressions.",
   },
   {
@@ -369,7 +376,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut & VN",
-    videoUrl: "/videos/iv10.MOV",
+    poster: "/videos/covers/iv10_cover.jpg",
+    videoUrl: "/videos/iv10.mp4",
     description: "Sophisticated editorial frame pacing with emphasis on light, emotion, and texture.",
   },
   {
@@ -382,7 +390,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "VN Video Editor",
-    videoUrl: "/videos/iv11.MOV",
+    poster: "/videos/covers/iv11_cover.jpg",
+    videoUrl: "/videos/iv11.mp4",
     description: "High-energy candid moments and festive smiles captured with lively movement.",
   },
   {
@@ -395,7 +404,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut Pro",
-    videoUrl: "/videos/iv12.MOV",
+    poster: "/videos/covers/iv12_cover.jpg",
+    videoUrl: "/videos/iv12.mp4",
     description: "Snappy, punchy short vignette engineered for instant visual impact.",
   },
   {
@@ -408,7 +418,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut Pro & VN",
-    videoUrl: "/videos/iv13.MOV",
+    poster: "/videos/covers/iv13_cover.jpg",
+    videoUrl: "/videos/iv13.mp4",
     description: "Pristine visual production with rich dynamic range and cinematic color grade.",
   },
   {
@@ -421,7 +432,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "VN Video Editor",
-    videoUrl: "/videos/iv14.MOV",
+    poster: "/videos/covers/iv14_cover.jpg",
+    videoUrl: "/videos/iv14.mp4",
     description: "Warm and authentic moments captured with natural light and heartfelt composition.",
   },
   {
@@ -434,7 +446,8 @@ export const VIDEO_ITEMS: VideoItem[] = [
     year: "2026",
     client: "IBR CREATION",
     tools: "CapCut Pro & VN",
-    videoUrl: "/videos/iv15.MOV",
+    poster: "/videos/covers/iv15_cover.jpg",
+    videoUrl: "/videos/iv15.mp4",
     description: "Dramatic twilight tones, subtle motion, and cinematic sunset framing.",
   },
 ];
